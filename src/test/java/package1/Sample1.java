@@ -6,6 +6,8 @@ public class Sample1 {
 		// TODO Auto-generated method stub
 		System.out.println("first print statement");
 		System.out.println("  from selenium-workspace");
+		System.out.println("  from selenium-workspace");
+
 
 	}
 
