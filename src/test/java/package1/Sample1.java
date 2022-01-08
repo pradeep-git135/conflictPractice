@@ -9,6 +9,8 @@ public class Sample1 {
 		System.out.println("  from selenium-workspace ");
 
 		System.out.println("   second commit from selenium java workspace ");
+		
+		System.out.println("one more try after merge from java");
 
 	}
 
